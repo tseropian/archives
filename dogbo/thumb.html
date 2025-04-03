@@ -1,0 +1,153 @@
+<!--
+Script trouv� sur http://w.htmlhpscripts-fr.net
+Modifi� par Garth							garth6@caramail.com
+Re modifi� par Flying Nemo					bionicvisa@hotmail.com
+Re Re modifi� et Finalis� par Thoomis		webmaster@hevydevy.fr.st
+ -->
+<SCRIPT LANGUAGE="JavaScript">
+function PopupQuiMarche(page,largeur,hauteur,options) {
+  var top=(screen.height-hauteur)/2;
+  var left=(screen.width-largeur)/2;
+  window.open(page,"","top="+top+",left="+left+",width="+largeur+",height="+hauteur+","+options);
+}
+</SCRIPT>
+
+<?php
+$ishome='';
+if(isset($_GET['dir_id'])){
+	$gal_id=$_GET['dir_id'];
+}else{
+	$gal_id=1;
+}
+include "include/dbopen.html" ;
+	$requete = mysql_query("SELECT * FROM galeries WHERE id = $gal_id");
+	$galerie = mysql_fetch_object($requete);
+		$gal_titre=$galerie->nom;
+		$gal_url=$galerie->url;
+include "include/dbclose.html" ;
+
+//include "include/head.html" ;
+?>
+</head>
+<?
+//include "include/haut.html" ;
+?>
+
+
+<html>
+<!-- Date de cr�ation: 06/09/2004 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Mission humanitaire Dogbo 2004</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="ReptileCrackeR">
+<meta name="generator" content="WebExpert 5">
+<link rel="stylesheet" href="dogbo.css" />
+</head>
+<body>
+<div align=center>
+<table border="1" cellspacing="4" cellpadding="0" bordercolor="#000000" width="600">
+<tr>
+	<td height="230">
+		<img src="images/head.jpg" width="600" height="232" border="0" alt="">
+	</td>
+</tr>
+
+<tr>
+	<td align=center>
+		<b>:: <a href="index.html">Accueil</a> :: <a href="mission.html">La mission</a> :: <a href="photos.html">Photos</a> :: <a href="contact.html">Contacts</a> ::</b><br>  
+	</td>
+</tr>
+
+<tr>
+	<td align=center>
+		<table width=100% cellpadding=0 cellspacing=0>
+		<tr>
+			<td valign="top" align="center">
+				<br>
+				<table width=90% cellspacing=0 cellpadding=0>
+				<tr>
+					<td align="justify">
+						<b>Galerie photos>></b><br><br>
+					</td>
+				</tr>
+				
+				<tr>
+					<td align="center">
+
+		<font id=header>&gt;&gt; <?php echo $gal_titre;?></font>
+		<br>
+		<br>
+		<br>
+		<center><b>Cliquez sur les images pour voir les grandes photos</b>
+		<br>
+		<br>
+		<a href="photos.html"><b>Retour � la galerie</b></a></center>
+
+				
+<?
+// Start of PARAMETERS section
+	$columns=4;                 		//number of images per line
+	$ratio=1;                  			//ratio imageSize / thumbnailImageSize
+//	$scriptname= $path.html";    	//filename of this script
+// End of PARAMETERS section
+
+echo  "<center>\n";
+echo  "<P><BR><BR>\n";
+
+//Initialisation des variables
+	$counter=0;
+	$nbfiles = 0;
+	$currfile =  "";
+	$fichier[0] =  "";
+//Fin initialisation
+
+$mydirectory=$gal_url;
+$mydiraccesimggrande=$gal_url."grandes/";
+$mydiraccesimgpetite=$gal_url;
+
+$handle=opendir($mydirectory);
+//$handle=opendir("../dogbopics/cotonou/");
+while ($currfile = readdir($handle))
+{
+	$currfilelien=$mydiraccesimggrande.$currfile;
+	$currfile=$mydiraccesimgpetite.$currfile;
+
+	$extension= strtolower(substr( strrchr( $currfile,  "." ), 1 ));
+	if ($extension== "gif" || $extension== "jpg" || $extension== "jpeg")
+	{
+		$nbfiles++;
+		$fichier[$nbfiles] = $currfile;
+		if ($ishome=="")
+		{
+			echo "<A href='javascript:PopupQuiMarche(\"pic.html?filename=$currfilelien\",800,600,\"menubar=no,scrollbars=YES,statusbar=no\")'><img src='$currfile'border=0></A>&nbsp;&nbsp;";
+			$counter++;
+			if ($counter == $columns)
+			{
+				$counter = 0;
+				 echo  "<br><br>";
+			}
+		}
+	}
+}
+closedir($handle);
+?>
+	</td>
+				</tr>
+				</table
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+
+<tr>
+	<td align=center>
+		<b>2004 - <a href="http://www.la-guilde.org" target="_blank">La Guilde Europ�enne du Raid</a></b>  
+	</td>
+</tr>
+</table>	
+</div>
+</body>
+</html>
