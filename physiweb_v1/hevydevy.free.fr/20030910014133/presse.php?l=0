@@ -1,0 +1,159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=0">Welcome</a>
+	<br><a href="news.php?l=0">News</a>
+	<br><a href="tour.php?l=0">Tour</a>
+	<br><a href="liens.php?l=0">Links</a>
+	<br><a href="bio.php?l=0">Biography</a>
+	<br><a href="musiciens.php?l=0">Members</a>
+	<br><a href="disco.php?l=0">Discography</a>
+	<br><a href="pirates.php?l=0">Bootlegs</a>
+	<br><a href="paroles.php?l=0">Lyrics</a>
+	<br><a href="reports.php?l=0">Live Reports</a>
+	<br><a href="photos.php?l=0">Pic Gallery</a>
+	<br><a href="dls.php?l=0">Downloads</a>
+	<br><a href="presse.php?l=0">The Press</a>
+	<br><a href="fans.php?l=0">Fan Profiles</a>
+	<br><a href="sondage.php?l=0">Poll</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=12" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="presse.php?l=1"><img src="img/francais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=0">The Webmaster</a> - <a href="contact.php?l=0">Contact</a> - <a href="credits.php?l=0">Credits</a></div>
+<div id=texte>
+<table width=100% height=100% cellspacing=0 cellpadding=0>
+<tr>
+	<td valign=top bgcolor="#663333">
+		<table width=100% cellspacing=0 cellpadding=0>
+		<tr>
+			<td bgcolor="#000000">
+				<div align=right id=titre>&gt;&gt;Press&nbsp;&nbsp;</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#663333">
+				<br>
+			</td>
+		</tr>
+								
+		<tr>
+			<td bgcolor="#663333">
+ 				<div align=center>
+				One of my goals is to gather all articles and interviews 
+		<br>about Devin	issued in the world press.
+		<br><br>If you think you own anything that could interest me, 
+		<br>just send me an e mail.				<br>
+				<br>
+				<table width=100% cellspacing=0 cellpadding=0 border=0>				
+								<tr>
+					<td colspan=2>
+				<b>&nbsp;&nbsp;&gt;&gt;CDs reviews</b>						<br>
+					</td>
+				</tr>
+								<tr>
+					<td width=90%>
+				<a href="article.php?l=0&id=1">City by Hard Rock Magazine (Mars 1997)</a>		
+					</td>
+					<td width=10%>
+				<img src="img/francais.jpg">					</td>
+				</tr>
+				
+								<tr>
+					<td width=90%>
+				<a href="article.php?l=0&id=2">No Sleep Til Bedtime by Hard Rock Magazine (July 1998)</a>		
+					</td>
+					<td width=10%>
+				<img src="img/francais.jpg">					</td>
+				</tr>
+				
+								<tr>
+					<td>
+						<br>
+					</td>
+				</tr>
+								<tr>
+					<td colspan=2>
+				<b>&nbsp;&nbsp;&gt;&gt;Interviews</b>						<br>
+					</td>
+				</tr>
+								<tr>
+					<td width=90%>
+				<a href="article.php?l=0&id=9">Sunday Evening Interview</a>		
+					</td>
+					<td width=10%>
+				<img src="img/francais.jpg">					</td>
+				</tr>
+				
+								<tr>
+					<td width=90%>
+				<a href="article.php?l=0&id=8">Sunday Evening Interview</a>		
+					</td>
+					<td width=10%>
+				<img src="img/anglais.jpg">					</td>
+				</tr>
+				
+								<tr>
+					<td>
+						<br>
+					</td>
+				</tr>
+								<tr>
+					<td colspan=2>
+				<b>&nbsp;&nbsp;&gt;&gt;Live reports</b>						<br>
+					</td>
+				</tr>
+								<tr>
+					<td>
+						<br>
+					</td>
+				</tr>
+				
+				</table>	
+				</div>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,632 @@
+<html>
+<head>
+	<title>...::[ COUP2MASS -=- MASS HYSTERIA ]::...</title>
+<link rel=stylesheet href="style.css">
+<script language="JavaScript">
+function OUVERTURE(document) { var myWindow=window.open(document, "Read",
+"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=500,height=390"); 
+if (navigator.appName=='Netscape') {
+	myWindow.focus(); } }
+</script>
+</head>
+<body bgcolor="#000000">
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr>
+	<td>
+		<div align="center">
+		<!-- DEBUT DE LA BARRE DU MENU -->
+		<table width=100% border=0 cellspacing="0" cellpadding="0">
+		<tr>
+			<td width=15 height=15 bgcolor="#000000">
+				<div align="right">
+				<img src="img/bord/hg.jpg" height=100% width=100%>
+				</div>
+			</td>
+			<td width=100% bgcolor="#336699">
+				<img src="img/bord/h.jpg" height=100% width=100%>
+			</td>
+			<td width=15 height=15 bgcolor="#000000">
+				<img src="img/bord/hd.jpg" height=100% width=100%>
+			</td>
+		</tr>
+
+		<tr>
+			<TD WIDTH=15 HEIGHT="100%">
+				<img src="img/bord/g.jpg" width="15" height="100%">
+			</td>
+			<td bgcolor="#336699">
+				<table width=100% border=0 cellspacing=0 cellpadding=0>
+				<tr>
+					<td height=150 width=450>
+						<!-- TITRE -->
+						<img src="img/titre.jpg" height=150 width=450>
+					</td>
+					<td valign="top">
+						<!-- RUBRIQUES -->
+						<table width=100% border=0 cellspacing=0 cellpadding=0>
+						<tr>
+							<td width=25%>
+								<table width=90% border=1 bordercolor="#000000" cellspacing=0 cellpadding=0>
+								<tr>
+									<td>
+										<div align="center">
+										<table width=100% border=0 cellspacing=0 cellpadding=0>
+										<tr>
+											<td bgcolor="#333333" background="img/entete.jpg">
+												<div align="center">
+												<b>Bienvenue</b>
+												</div>
+											</td>
+										</tr>										
+
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>										
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="accueil.php" onMouseOver="window.status='Bienvenue sur Coup2Mass'; return true"onMouseOut="window.status=' '; return true">Bienvenue</A>
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="news.html" onMouseOver="window.status='News & mises � jour'; return true"onMouseOut="window.status=' '; return true">Les news</A>
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="tour.php" onMouseOver="window.status='Les dates de tourn�e'; return true"onMouseOut="window.status=' '; return true">La tourn�e</a>
+											</td>
+										</tr>
+										
+										<TR> 
+											<td> 
+												<div align="center">
+												<a href="liens.php" onMouseOver="window.status='Les sites hyst�riques'; return true"onMouseOut="window.status=' '; return true">Les liens</a>
+												</div>
+											</TD>
+										</tr>
+										
+										<tr> 
+											<td> 
+												<div align="center">
+												<a href="fans.php" onMouseOver="window.status='Portrait de quelques furieux'; return true"onMouseOut="window.status=' '; return true">Les fans</a>
+												</div>
+											</TD>
+										</tr>
+									
+										<tr> 
+											<td> 
+												<div align="center">
+												<a href="credits.php" onMouseOver="window.status='Quelques remerciements'; return true"onMouseOut="window.status=' '; return true">Remerciements</A>
+												</div>
+											</TD>
+										</tr>									
+									
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>
+										</table>
+									</td>
+								</tr>								
+								</table>						
+							</td>
+							<td width=25%>
+							<table width=90% border=1 bordercolor="#000000" cellspacing=0 cellpadding=0>
+							<tr>
+							<td>
+								<table width=100% border=0 cellspacing=0 cellpadding=0>
+										<tr>
+											<td bgcolor="#333333" background="img/entete.jpg">
+												<div align="center">
+												<b>Le groupe</b>
+												</div>
+											</td>
+										</tr>										
+
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>										
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="bio.php" onMouseOver="window.status='L\'histoire du groupe'; return true"onMouseOut="window.status=' '; return true">Biographie</a>
+												</div>
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="membres.php" onMouseOver="window.status='Les membres du groupe'; return true"onMouseOut="window.status=' '; return true">Les membres</a>
+												</div>
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="disco.php" onMouseOver="window.status='La discographie'; return true"onMouseOut="window.status=' '; return true">Discographie</a>
+												</div>
+											</td>
+										</tr>
+										
+										<TR> 
+											<td> 
+												<div align="center">
+												<a href="paroles.php" onMouseOver="window.status='Les paroles'; return true"onMouseOut="window.status=' '; return true">Paroles</a>
+												</div>
+											</TD>
+										</tr>
+										
+										<TR> 
+											<td> 
+												<div align="center">
+												<a href="videos.php" onMouseOver="window.status='La vid�ographie'; return true"onMouseOut="window.status=' '; return true">Videos</a>
+												</div>
+											</TD>
+										</tr>
+										
+										<tr> 
+											<td> 
+												<div align="center">
+												<a href="pirates.php" onMouseOver="window.status='La listre des pirates'; return true"onMouseOut="window.status=' '; return true">Pirates</a>
+												</div>
+											</TD>
+										</tr>
+									
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>
+										</table>
+							</td>
+							</tr>
+							</table>
+							</td>
+							<td width=25%> 
+							<table width=90% border=1 bordercolor="#000000" cellspacing=0 cellpadding=0>
+							<tr>
+							<td>
+								<table width=100% border=0 cellspacing=0 cellpadding=0>
+										<tr>
+											<td bgcolor="#333333" background="img/entete.jpg">
+												<div align="center">
+												<b>Le site</b>
+												</div>
+											</td>
+										</tr>										
+
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="live.php" onMouseOver="window.status='Les hyst�ries massives'; return true"onMouseOut="window.status=' '; return true">Live Reports</a>
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<div align="center">
+												<a href="gallerie.php" onMouseOver="window.status='Galerie photo'; return true"onMouseOut="window.status=' '; return true">Galerie photo</a>
+												</div>
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="collector.php" onMouseOver="window.status='Quelques raret�s'; return true"onMouseOut="window.status=' '; return true">Collectors</a>
+												</div>
+											</td>
+										</tr>										
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="sons.php" onMouseOver="window.status='Monte le son'; return true"onMouseOut="window.status=' '; return true">Sons</a>
+												</div>
+											</td>
+										</tr>
+										<TR> 
+											<td> 
+												<div align="center">
+												<a href="dl.php" onMouseOver="window.status='Quelques g�teries '; return true"onMouseOut="window.status=' '; return true">Downloads</a>
+												</div>
+											</TD>
+										</tr>
+										
+										<tr> 
+											<td> 
+												<div align="center">
+												<a href="presse.php" onMouseOver="window.status='Revue de presse'; return true"onMouseOut="window.status=' '; return true">Dans la presse</a>
+												</div>
+											</TD>
+										</tr>
+									
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>
+										</table>
+							</td>
+							</tr>
+							</table>							
+							</td>							
+							<td width=25%> 
+							<table width=90% border=1 bordercolor="#000000" cellspacing=0 cellpadding=0>
+							<tr>
+							<td>
+								<table width=100% border=0 cellspacing=0 cellpadding=0>
+										<tr>
+											<td bgcolor="#333333" background="img/entete.jpg">
+												<div align="center">
+												<b>Contact</b>
+												</div>
+											</td>
+										</tr>										
+
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td>
+												<div align="center">
+												<a href="sondage.php" onMouseOver="window.status='Un petit sondage'; return true"onMouseOut="window.status=' '; return true">Sondage</a>
+												</div>
+											</td>
+										</tr>
+																				
+										<tr>
+											<td>
+												<div align="center">
+												<a href="http://www.webdonline.com/fr/services/forums/forums.asp?id=305300
+" onMouseOver="window.status='Le forum'; return true"onMouseOut="window.status=' '; return true">Forum</a>
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<div align="center">
+												<a href="guestbook.php" onMouseOver="window.status='Laissez une trace de votre passage ...'; return true"onMouseOut="window.status=' '; return true">Guestbook</a>
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<div align="center">
+												<a href="newsletter.php" onMouseOver="window.status='La newsletter'; return true"onMouseOut="window.status=' '; return true">Newsletter</a>
+												</div>
+											</td>
+										</tr>
+										<TR> 
+											<td> 
+												<div align="center">
+												<a href="webmasters.php" onMouseOver="window.status='Vos humbles serviteurs'; return true"onMouseOut="window.status=' '; return true">L'�quipe</a>
+												</div>
+											</TD>
+										</tr>
+										
+										<tr> 
+											<td> 
+												<div align="center">
+												<a href="contact.php" onMouseOver="window.status='Pour nous contacter'; return true"onMouseOut="window.status=' '; return true">Contact</a>
+												</div>
+											</TD>
+										</tr>
+									
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+										</tr>
+										</table>
+							</td>
+							</tr>
+							</table>
+							</td>
+						</tr>
+						
+						<tr>
+							<td colspan=4>
+								<div align="center">
+								<br>
+								<B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous sommes aujourd'hui le 17/10/02</B>
+								</div>
+							</td>
+						</tr>	
+						</table>
+					</td>
+				</tr>			
+				</table>
+				<!-- FIN DES RUBRIQUES -->		
+			</td>
+			<td width=15 height=100%>
+				<img src="img/bord/d.jpg" width=15 height=100%>
+			</td>
+		</tr>
+
+		<tr>
+			<td width=15 height=15>
+				<img src="img/bord/bg.jpg" height=100% width=100% bgcolor="#000000">
+			</td>
+			<td height=15>
+				<img src="img/bord/b.jpg" height=100% width=100%>
+			</td height=15>
+			<td width=15 height=15>
+				<img src="img/bord/bd.jpg" height=100% width=100% bgcolor="#000000">
+			</td>
+		</tr>
+		</table>
+		<!-- FIN DE LA BARRE MENU -->	
+	</td>
+</tr>
+<tr>
+	<td>
+		<div align="center">
+<body onload="javascript:OUVERTURE('popup.php')">
+		<br><br>
+		<table width=90% border=0 cellspacing=0 cellpadding=0>
+		<tr>
+			<td colspan=2 width=100% valign="top" bgcolor="#336699">
+				&nbsp;&nbsp;<B>&gt;&gt; Bienvenue sur Coup2Mass</B>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan=2>
+				<br><br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td width=50% valign="top">
+				<div align="center">
+				<table width=90% border=0 cellspacing=0 cellpadding=0>
+				<tr>
+					<td>
+						<div align="justify">			
+						<i>
+						Du tac au tac et fout tout au taquet
+						<br>
+						Ce n'est pas tapis dans l'ombre que l'on vous 
+						<br>
+						Fera bouger en nombre. Publique furyst�rique
+						<br>
+						Cinq piges d'historique donnent forment � cette missive sonique.
+						<br>
+						Inondes le monde de bonnes ondes de choc
+						<br>
+						Nos d�cibels c'est le concert qu'elles provoquent 
+						<br>
+						Pour trouver les possibles dans notre �poque 
+						<br>
+						A toutes les portes du son Mass toque ! </i>
+						</div>
+					</td>
+				</tr>
+				</table>
+				</div>
+			</td>
+			<td width=50%>
+				<div align="center">
+				<table width=90% border=0 cellspacing=0 cellpadding=0>
+				<tr>
+					<td>
+						<div align="justify">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salut � tous les furieux et les furieuses, et bienvenue sur <i>Coup2Mass</i>, le nouveau site d�di� au groupe francais de metal contemporain <B>MASS HYSTERIA</B>.
+						<br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le but de ce site est d'�tre une source d'information et de rassembler tous les fans �tant donn� que le site officiel est en stand by depuis un moment.
+						<br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si vous voulez nous faire part de quelle que remarque que ce soit, n'h�sitez pas � nous contacter.
+						<br>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur ce, on vous souhaite un bon surf sur le site et rendez vous pendant les concerts.
+						</div>
+					</td>
+				</tr>
+				</table>
+				</div>
+			</td>
+		</tr>
+		
+		<tr>
+			<td width=50% valign="top">
+				<div align="center">
+				<br>
+				<table width=70%>
+				<tr>
+					<td bgcolor="#336699">
+						<div align="center">
+						<b>Les derni�res news			
+						</div>
+					</td>
+				</tr>				
+			<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Tourn�e 2002 suite</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a hrefnews.htmlhp?'>Braderie � Lilles le 1er septembre</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a hrnews.html.php?'>Mass on Nu-KO</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a hrnews.html.php?'>Mass Unplugged � la Fnac</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a news.htmlws.php?'>MASS HYSTERIA dans les coulisses du Mondial 2002</A><br></td></tr>				
+				</table>
+				</div>
+			</td>
+			
+			<td width=50%>
+				<div align="center">
+				<br>
+				<table width=70%>
+				<tr>
+					<td bgcolor="#336699">
+						<div align="center">
+						<b>Les mises � jour
+						</div>
+					</td>
+				</tr>
+					</tr>				
+			<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Des photos</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Les photos !!!!!</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Ca continue</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Live Report Mass@CanalPlus</A><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; <a href='news.html?'>Grosse mise � jour</A><br></td></tr>			
+				</table>
+				</div>
+			</td>
+		</tr>
+		</table>
+		<br>
+		
+<!-- FIN DE LA PARTIE CENTRALE -->
+		</div>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<div align="center">
+		<!-- DEBUT DE LA BARRE DU BAS -->		
+		<table width=100% border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width=15 height=15 bgcolor="#000000">
+				<img src="img/bord/hg.jpg" height=100% width=100%>
+			</td>
+			<td bgcolor="#336699">
+				<img src="img/bord/h.jpg" height=15 width=100%>
+			</td>
+			<td width=15 height=15 bgcolor="#000000">
+				<img src="img/bord/hd.jpg" height=100% width=100%>
+			</td>
+		</tr>
+
+		<tr>
+			<td width=15 height=100%>
+				<img src="img/bord/g.jpg" width=15 height=100%>
+			</td>
+			<td bgcolor="#336699">
+				<!-- DEBUT DE LA CELLULE PRINCIPALE -->
+				<table width=100% border=0 cellspacing=0 cellpadding=0>
+				<tr>
+					<td width=15% valign="top">
+						<div align="center">
+						<img src="img/miniban.jpg" height=47 width=140>
+						</div>
+					</td>
+					<td valign="top" width=10%>
+						<div align="center">
+						<b>Mise � jour :</b>
+						<br>
+							25/08/2002 
+						
+						</div>
+					</td>
+					<td valign="top" width=15%>
+						<div align="center">
+						<b>3622 visiteurs</b>
+						<br>
+						depuis le 
+						<br>
+						10/04/2002
+						</div>
+					</td>
+					<td valign="top" width=35%>
+						<div align="center">
+						<form method=GET action="http://groups.yahoo.com/subscribe/coup2mass">
+<table cellspacing=0 cellpadding=2 border=0>
+  <tr>
+    <td>
+      <input type=text name="user" value="Rentrez votre e-mail" size=20>
+    </td>
+    <td>
+      <input type=image border=0 alt="Click here to join coup2mass"
+       name="Click here to join coup2mass"        src="http://groups.yahoo.com/img/ui/join.gif">
+    </td>
+  </tr>
+  
+</table>
+</form>
+						</div>
+					</td>
+
+					<td valign="top" width=10%>
+						<div align="center">
+						<b>Thoomis :</b>
+						<br>
+						<a href="http://wwp.icq.com/scripts/contact.dll?msgto=70067306"> 
+    					<img src="http://wwp.icq.com/scripts/online.dll?icq=70067306&img=5" border=0 width=18 height=18 align='middle'>
+						70067306</a>
+						</div>
+					</td>
+					<td valign="top" width=15%>
+						<div align="center">
+						<b>Pat.the_donutser</b> :
+						<br>
+						<a href="http://wwp.icq.com/scripts/contact.dll?msgto=67285053"> 
+    					<img src="http://wwp.icq.com/scripts/online.dll?icq=67285053&img=5" border=0 width=18 height=18 align='middle'>
+						67285053</a>
+						</div>
+					</td>
+				</tr>
+				</table>		
+			<!-- FIN DE LA CELLULE PRINCIPALE -->
+			</td>
+			<td width=15 height=100%>
+				<img src="img/bord/d.jpg" width=15 height=100%>
+			</td>
+		</tr>
+
+		<tr>
+			<td width=15 height=15>
+				<img src="img/bord/bg.jpg" height=100% width=100% bgcolor="#000000">
+			</td>
+			<td height=15>
+				<img src="img/bord/b.jpg" height=100% width=100%>
+			</td height=15>
+			<td width=15 height=15>
+				<img src="img/bord/bd.jpg" height=100% width=100% bgcolor="#000000">
+			</td>
+		</tr>
+		</table>
+		<!-- FIN DE LA BARRE DU BAS -->	
+		</div>	
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<div align="center">
+		<B>Tous droits r�serv�s - Site optimis� pour Internet Explorer 5.5 en 1024*768 - Coup2Mass �2002<!-- Begin Nedstat Basic code -->
+<!-- Title: Coup2mass -->
+<!-- URL: http://www.mass-hysteria.best.cd -->
+<script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("ABii0gI2qMWNvHAfTwiWphDr3ARA", 0);
+// -->
+</script>
+<noscript>
+<a target="_blank" href="http://v1.nedstatbasic.net/stats?ABii0gI2qMWNvHAfTwiWphDr3ARA"><img
+src="http://m1.nedstatbasic.net/n?id=ABii0gI2qMWNvHAfTwiWphDr3ARA"
+border="0" nosave width="18" height="18"></a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+</B>
+		</div>
+	</td>
+</tr>
+</table>
+</body>
+</html>
