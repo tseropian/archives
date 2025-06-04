@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=0">Welcome</a>
+	<br><a href="news.php?l=0">News</a>
+	<br><a href="tour.php?l=0">Tour</a>
+	<br><a href="liens.php?l=0">Links</a>
+	<br><a href="bio.php?l=0">Biography</a>
+	<br><a href="musiciens.php?l=0">Members</a>
+	<br><a href="disco.php?l=0">Discography</a>
+	<br><a href="pirates.php?l=0">Bootlegs</a>
+	<br><a href="paroles.php?l=0">Lyrics</a>
+	<br><a href="reports.php?l=0">Live Reports</a>
+	<br><a href="photos.php?l=0">Pic Gallery</a>
+	<br><a href="dls.php?l=0">Downloads</a>
+	<br><a href="presse.php?l=0">The Press</a>
+	<br><a href="fans.php?l=0">Fan Profiles</a>
+	<br><a href="sondage.php?l=0">Poll</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=12" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="tour.php?l=1"><img src="img/francais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=0">The Webmaster</a> - <a href="contact.php?l=0">Contact</a> - <a href="credits.php?l=0">Credits</a></div>
+<div id=texte>
+		<table width=100% height=100% cellspacing=0 cellpadding=0>
+		<tr>
+			<td valign=top bgcolor="#663333">
+				<table width=100% cellspacing=0 cellpadding=0>
+				<tr>
+					<td bgcolor="#000000">
+						<div align=right id=titre>
+						&gt;&gt;Tour&nbsp;&nbsp;
+						</div>
+					</td>
+				</tr>
+
+				<tr>
+					<td bgcolor="#663333">
+						<br>
+					</td>
+				</tr>
+								
+				<tr>
+					<td bgcolor="#663333">
+ 						<div align=center>
+						Tour dates from all over the world
+						</div>
+					</td>
+				</tr>
+								
+				<tr>
+					<td bgcolor="#663333">
+						<br>
+					</td>
+				</tr>
+								
+				<tr>
+					<td bgcolor="#663333">
+						<div align=center><table width=100% cellspacing=0 cellpadding=0><tr><td colspan=3><div align=center><b>Strapping Young Lad only</b><br><br></div></td></tr><tr><td valign=top width=20%><div align=center>07/25/2003</div></td><td valign=top width=40%><div align=center>Metalfest</td><td valign=top width=40%><div align=center>Milwaukee [USA]</td></tr><tr><td valign=top width=20%><div align=center>08/02/2003</div></td><td valign=top width=40%><div align=center>Metalfest</td><td valign=top width=40%><div align=center>Kelowna [USA]</td></tr><tr><td valign=top width=20%><div align=center>08/23/2003</div></td><td valign=top width=40%><div align=center>Studio 7</td><td valign=top width=40%><div align=center>Seattle [USA]</td></tr><tr><td colspan=3><div align=center><b>Strapping Young Lad - Samael</b><br><br></div></td></tr><tr><td valign=top width=20%><div align=center>09/04/2003</div></td><td valign=top width=40%><div align=center>Downtown</td><td valign=top width=40%><div align=center>Firmingale [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/05/2003</div></td><td valign=top width=40%><div align=center>- TBA -</td><td valign=top width=40%><div align=center>Cleveland [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/06/2003</div></td><td valign=top width=40%><div align=center>Pop s Sauget</td><td valign=top width=40%><div align=center>Illinois
+[USA]</td></tr><tr><td valign=top width=20%><div align=center>09/07/2003</div></td><td valign=top width=40%><div align=center>Rockhouse USA Aurora</td><td valign=top width=40%><div align=center>Illinois [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/08/2003</div></td><td valign=top width=40%><div align=center>-TBA-</td><td valign=top width=40%><div align=center>Minneapolis [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/10/2003</div></td><td valign=top width=40%><div align=center>Odgen Theater</td><td valign=top width=40%><div align=center>Denver [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/12/2003</div></td><td valign=top width=40%><div align=center>The Pound</td><td valign=top width=40%><div align=center>San Fransisco [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/13/2003</div></td><td valign=top width=40%><div align=center>Venture Theater</td><td valign=top width=40%><div align=center>Ventura [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/14/2003</div></td><td valign=top width=40%><div align=center>PWhiskey A Go-Go</td><td valign=top width=40%><div align=center>Los Angeles [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/19/2003</div></td><td valign=top width=40%><div align=center>The Underworld</td><td valign=top width=40%><div align=center>Dallas [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/20/2003</div></td><td valign=top width=40%><div align=center>Fitzgerald</td><td valign=top width=40%><div align=center>Houston [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/22/2003</div></td><td valign=top width=40%><div align=center>Culture Room</td><td valign=top width=40%><div align=center>Ft. Lauderdale [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/23/2003</div></td><td valign=top width=40%><div align=center>State Theater</td><td valign=top width=40%><div align=center>St. Petersburg</td></tr><tr><td valign=top width=20%><div align=center>09/24/2003</div></td><td valign=top width=40%><div align=center>The Masquerade</td><td valign=top width=40%><div align=center>Atlanta [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/25/2003</div></td><td valign=top width=40%><div align=center>Jaxx</td><td valign=top width=40%><div align=center>West Springfield [USA]</td></tr><tr><td valign=top width=20%><div align=center>09/29/2003</div></td><td valign=top width=40%><div align=center>Don Hills</td><td valign=top width=40%><div align=center>New York [USA]</td></tr><tr><td colspan=3><div align=center><b>Devin Townsend Band only</b><br><br></div></td></tr><tr><td valign=top width=20%><div align=center>07/18/2003</div></td><td valign=top width=40%><div align=center>The Royal</td><td valign=top width=40%><div align=center>Vancouver [CANADA]</td></tr><tr><td valign=top width=20%><div align=center>07/19/2003</div></td><td valign=top width=40%><div align=center>The Royal</td><td valign=top width=40%><div align=center>Vancouver [CANADA]</td></tr><tr><td colspan=3><div align=center><b>All In The Family Canadian Tour'03</b><br><br></div></td></tr><tr><td valign=top width=20%><div align=center>10/01/2003</div></td><td valign=top width=40%><div align=center>Les Foufounes Electriques</td><td valign=top width=40%><div align=center>Quebec City [CANADA]</td></tr><tr><td valign=top width=20%><div align=center>10/03/2003</div></td><td valign=top width=40%><div align=center>Opera House</td><td valign=top width=40%><div align=center>Toronto [CANADA]</td></tr><tr><td valign=top width=20%><div align=center>10/08/2003</div></td><td valign=top width=40%><div align=center>Exchange</td><td valign=top width=40%><div align=center>Regina [CANADA]</td></tr><tr><td valign=top width=20%><div align=center>10/09/2003</div></td><td valign=top width=40%><div align=center>Sakastoon</td><td valign=top width=40%><div align=center>Sakastoon [CANADA]</td></tr><tr><td colspan=3><br><br></td></tr></table></div>
+					</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>					
+</table>
+</body>
+</html>

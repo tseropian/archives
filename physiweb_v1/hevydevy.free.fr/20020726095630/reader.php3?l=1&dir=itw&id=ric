@@ -1,0 +1,551 @@
+<html>
+
+<head>
+	<title>>>PhysiWeb<< - http://www.HevyDevy.fr.st</title>
+<script language="javascript" src="http://ascensionfr.free.fr/script/client.js"></script>
+<link rel=stylesheet href="style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="title" lang="fr" content="Phywiweb">
+<meta name="description" content="Ascension - collectif de sites musicaux">
+<meta name="keywords" content="anathema,antimatter,devin,townsend,glassjaw,him,kreator,moonspell,my,dying,bride,sentenced,shaman,the,gathering,within,temptation,metal">
+<meta name="reply-to" content="hevydevy@free.fr">
+</head>
+</head>
+<body topmargin=0 marginheight=0>
+<p align="center">
+<table width=96% border=0>
+<TR>
+	<TD colspan=3>
+	<DIV ALIGN="center"><TABLE BORDER=1 BORDERCOLOR="white" CELLPADDING=0 CELLSPACING=0 WIDTH=600 HEIGHT=80 BGCOLOR="black">
+<TR>
+	<TD>
+		<center>
+		<a href="http://www.hevydevy.fr.st"><img src="img/titre.jpg" border=0 alt="http://www.hevydevy.fr.st"></a>
+		</center>
+	  </TD>
+    </TR>
+</TABLE><BR></DIV><a name="top">	</TD>
+</TR>
+<TR>
+	<TD WIDTH="20%" VALIGN="top">
+	<DIV ALIGN="center">
+<TABLE WIDTH="80%" BGCOLOR="black" BORDER=1 BORDERCOLOR="white" CELLPADDING=0 CELLSPACING=0 ID="menu">
+<TR>
+	<TD VALIGN="top">
+		
+		<TABLE width=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		<tr>
+			<td>
+				&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='edito.php3?l=1'>Edito</A>
+			</TD>
+		</TR>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='accueil.php3?l=1'>Bienvenue</A>
+			</TD>
+		</TR>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='news.php3?l=1'>Les News</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='links.php3?l=1'>Les Liens</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='bio.php3?l=1'>Biographie</A>
+			</td>
+		</tr>
+		
+				<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='musiciens.php3?l=1'>Musiciens</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='disco.php3?l=1'>Discographie</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='pirates.php3?l=1'>Pirates</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='paroles.php3?l=1'>Paroles</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='tour.php3?l=1'>Tourn&eacute;e</A>
+			</td>
+		</tr>		
+
+		<tr>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='reports.php3?l=1'>Concerts</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='photos.php3?l=1'>Gallerie Photo</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='presse.php3?l=1'>Dans la Presse</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='fans.php3?l=1'>Les Fans</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='sondage.php3?l=1'>Sondage</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='http://www.webdonline.com/fr/services/forums/forums.asp?id=222363' target='_blank'>Forum</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='http://www.webdonline.com/fr/services/guestbook/messages.asp?id=198443' target='_blank'>Guestbook</A>
+			</td>
+		</tr>
+
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='credits.php3?l=1'>Remerciements</A>
+			</td>
+		</tr>
+
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='webmaster.php3?l=1'>Le Webmaster</A>
+			</td>
+		</tr>
+		
+		<tr>
+			<TD>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;<a href='contact.php3?l=1'>Contact</A>
+			</td>
+		</tr>		
+		
+		<tr>
+			<td>
+				<DIV ALIGN='center'>
+				<script language='javascript'>
+				<!--
+ 	 			ascension('black','white',0);
+				//-->
+				</script>
+				</DIV>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				&nbsp;
+			</td>
+		</tr>
+		
+		
+		<tr>
+			<TD>
+				<div align='center'><a href='accueil.php3?l=0'><IMG SRC='img/anglais.jpg' BORDER=0 WIDTH=30 HEIGHT=15 alt='English Version'></A></div>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				&nbsp;
+			</td>
+		</tr>
+		</table> 	</td>
+</tr>
+
+
+
+</TABLE>
+</DIV>
+									</TD>
+	<TD WIDTH="60%" VALIGN="top">
+		<div align="center">
+		<TABLE WIDTH="98%" BORDER=1 BORDERCOLOR="white" CELLPADDING=0 CELLSPACING=0 BGCOLOR="black">
+		<TR>
+			<TD>
+				
+				<div align="center">
+<table border=0 cellspacing=0 cellpadding=0 width=90%>
+<tr>
+	<td>
+		<br><br>
+		<div align="center">
+		<TABLE WIDTH=50% BORDER=1 bordercolor="#ffffff" CELLPADDING=0 CELLSPACING=0 BGCOLOR="#335588">
+		<TR>
+			<TD>
+				<DIV ALIGN=CENTER>
+				<br>
+				Interview Devin Townsend  
+				<BR>
+				(par RockInChair)
+				<BR>
+				Aout 2001
+				<br>&nbsp;
+				</DIV>
+			</TD>
+		</TR>
+		</TABLE>
+		</DIV>
+	</td>
+</tr>
+
+<tr>
+<td>
+<div align="justify">
+<BR>
+<BR>
+<B>Peux-tu nous expliquer le concept de "Terria" ?</B>
+<BR>
+Il n'y a pas vraiment de concept. C'est la première fois que j'arrive à donner une définition de moi-même. 
+Tout ce que j'ai fait jusqu'à présent était limité, avec "Terria", j'ai fait un album qui 
+sonne bien, je pense, très mature, composé pour l'amour de la musique. 
+<BR><BR>
+<B>Pourrais-tu faire un commentaire sur chacun des morceaux ?</B><BR>
+Bien sur. "Olive" est le premier morceau, mais tu ne l'entends pas tout de suite, 
+tu ne sens pas que le disque est commencé. Tu continues à parler, tu prépares le petit 
+déjeuner, pendant que la chanson démarre. Ensuite, ça devient de plus en plus fort, 
+"putain qu'est-ce qui ce passe !?" ; le morceau parle des chiens, ça a été difficile pour 
+moi d'en parler, j'aime les chiens, mais je  suis égoïste. Parler des animaux, ça m'emmerde. 
+Mon chien est mort il y a deux jours, (ému, NDR) ; il est samplé sur le morceau "Mountain". 
+après le break du morceau, il y a un court passage où on l'entend, tu l'as entendu ?, je 
+dis "Quelle heure est-il?", le chien fait "houuuuuu !", ma femme répond "on va souper". 
+"Earth day" parle de responsabilité, de vivre dans un environnement, sortir les poubelles, 
+regarder les jours passer, les dépasser. "Deep Peace", c'est comment démarrer sans rien 
+pour ensuite penser à l'ambiance de Chinatown les jours de pluie. il y a une atmosphère 
+très calme. "Canada" parle de ce que j'ai vu en tournant dans ce pays ; j'ai vu mon pays 
+avec des yeux neufs, avec le regard d'un étranger. J'ai réalisé combien ce pays était beau. 
+"Down and under" parle de l'Australie, "The Flucke" parle de moi, de ce que représente la 
+musique idéale, de ce qu'elle serait sans l'industrie. Vu sous un autre angle, ce morceau 
+dit que l'on doit aimer, plus qu'être aimé. Personne n'est parfait. Mais on a la chance 
+d'être en vie, d'être né, d'être musicien, alors il ne faut pas être très fier.
+<BR><BR>
+<B>Tu m'as dis un jour que "City" de Strapping Young Lad était un coup de bol ("Fluke" en anglais)...</B><BR>
+Oui ! Un vrai coup de bol. "The fluke" est autobiographique. Il faut toujours un petit 
+détail pour compléter une situation. Je veux continuer à faire de la musique parce qu'il 
+manque quelque chose. "Nobody's here" parle de s'échapper ; les drogues et l'alcool peuvent 
+t'aider à éviter la douleur et le stress, mais en fait tu ne fais que retenir tes peurs, 
+ta haine. "Tiny tears" parle de perte, de tragédie. Faire le deuil de toutes ces choses 
+que tu n'auras jamais. " Stagnant" traite du ras le bol d'être largué, mentalement. Voilà, 
+terminé !
+<BR><BR>
+<B>Quelle est l'origine du mot "Terria" ? Un mot latin ?</B>
+<BR>
+Le latin est Terra, la terre, et Terria est un prénom féminin qui m'est venu lorsque je 
+sillonais le Canada. J'ai pensé que ça serait un bon nom pour un projet.
+<BR><BR>
+<B>L'illustration du Cd a été faite par Tranis Smith. Au dos, il y a ce dessin qui représente
+ un torse avec une rose au dessus à la place de la tête, tu peux me parler de ça ?</B>
+<BR>
+Après la mort, on renaît ; il faut parfois mourir pour renaître. Terria, le concept, n'est pas influencé par la mort, c'est une renaissance.
+<BR><BR>
+<B>On ne sais pas quels musiciens jouent sur cet album...</B>
+<BR>
+...Il y a le batteur de Strapping, le bassiste vient d'un groupe de San Francisco, le claviériste est de Vancouver : Gene Hoglan à la Batterie, Craig MacFairland à la basse et Jamye Mayer aux claviers.
+<BR><BR>
+<B>Celui-ci a déjà joue avec toi dans Strapping... Il y a beaucoup de guitare basse sur cet album...</B>
+<BR>
+J'ai beaucoup aimé ce son ... il se peut que je l'aie mixé un peu fort ! (rires)
+<BR><BR>
+<B>Il y a aussi plus de solo de guitare. Sont-ils improvisés ?</B>
+<BR>
+Oui, une ou deux prises.
+<BR><BR>
+<B>Tu as dit que Strapping était rouge, qu'Océan Machine était bleu... Quelle est la couleur de "Terria" ?</B>
+<BR>
+En fait Strapping était noir. Infinity était blanc, Ocean Machine était bleu et Terria est brun, vert et cool.
+<BR><BR>
+<B>Au dos du CD, il est écrit "File under métal" ("à classer dans les bacs métal"). Qu'en penses-tu ?</B>
+<BR>
+Je sais pas si ça va m'amener plus de fans ! Qu'est ce que tu en penses ?
+<BR><BR>
+<B>J'aurais écrit : "File under Rock"...</B>
+<BR>
+... Pourquoi pas !
+<BR><BR>
+<B>Tu vas tourner ?</B>
+<BR>
+J'y pense. Mais j'ai besoin d'un autre groupe autour de moi. J'espère que nous allons tourner cette année et jouer tous mes projets. J'aurai un groupe pour les morceaux heavy et un autre pour les morceaux cool ; un groupe Rock et un groupe métal.
+<BR><BR>
+<B>Ta dernière tournée française a été annulée...</B>
+<BR>
+...Vraiment ?
+<BR><BR>
+<B>Oui, vous deviez jouer à Brest, à Lyon,...</B>
+<BR>
+...Une agence s'est occupé de la tournée. Nous ne pouvions pas jouer si nous perdions de l'argent. Ce n'est pas ma décision et je m'excuse pour ça, mais j'espère qu'on rattrapera.
+<BR><BR>
+<B>Écoutes-tu des nouveaux CD ?</B>
+<BR>
+Beaucoup : Fantômas, Static X, Ween, Morbid Angel, ...
+<BR><BR>
+<B>Tu as écouté le dernier Fear Factory ?</B>
+<BR>
+"Digimortal" ? Oui, je pense que c'est celui qui sonne le mieux.
+<BR><BR>
+<B>Nevermore, tu as écouté ?</B>
+<BR>
+Oui, j'aime beaucoup.
+<BR><BR>
+<B>Ils ont un bon chanteur...</B>
+<BR>
+... Oui j'ai des CD dans mon sac... (Bruit de farfouillage NDR). J'aime vraiment Ween, ils sont super, Radiohead, Massive Attack, The Young Gods, Yes, Franck Zappa, Stravinski, Steve Ray Vaughan, Chibo Matto, Dilliger Escape Plan, Footnote, The Haunted, Deftones, Judas Priest, Tom Waits, Slayer ...
+<BR><BR>
+<B>Tes projets immédiats ? Une tournée ?</B>
+<BR>
+Oui, je fais aussi de la production de groupes canadiens. Beaucoup ont le potentiel pour faire quelque chose. C'est une communauté assez bizzare, semble-t-il, mais c'est cool. Ils ont du potentiel.
+<BR><BR>
+<B>Y-a-t-il des endroits au Canada où les petits groupes peuvent jouer ?</B>
+<BR>
+Presque rien à Vancouver !
+<BR><BR>
+<B>C'est la même chose chez nous ! Salut Devin !
+
+	</td>
+</tr>
+</table>
+</div>
+				<BR>&nbsp;
+			</TD>
+		</TR>
+		</TABLE>
+		</div>
+	</TD>
+	<TD WIDTH="20%" VALIGN="top">
+	<DIV ALIGN='center'>
+<TABLE WIDTH='80%' BGCOLOR='black' BORDER=1 BORDERCOLOR='white' CELLPADDING=0 CELLSPACING=0 ID='menu'>
+<TR>
+	<TD VALIGN='top'>
+		<table width=100%>
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<td>	
+			<DIV ALIGN='center'>
+			
+			<B>Aujourd'hui,</B>
+							<br>26/07/2002
+							</DIV>
+						</td>
+					</tr>
+				
+					<tr>
+						<td>
+							&nbsp;
+						</td>
+					</tr>
+		
+					<tr>
+						<td>
+							<DIV ALIGN='center'>
+							<B>2410
+							visiteurs</B> 
+							<br>
+							depuis le 1er aout 2001
+							</DIV>
+						</td>
+					</tr>
+		
+					<tr>
+						<td>
+							&nbsp;
+						</td>
+					</tr>
+		
+					<tr>
+						<td>
+							<DIV ALIGN='center'>
+							<B>Mise &agrave; jour</B> :
+							<br>29/03/200
+			</DIV>
+			<td>
+		</tr>
+				
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+			<div align='center'>
+			<!-- Début du code à insérer -->
+			<form action='http://www.webdonline.com/fr/services/mailing/inscription.asp' method="post">
+			 <input type="hidden" name="mailingID" value="258665">
+			 <table border="0" cellspacing="0" cellpadding="0" >
+			  <tr>
+			   <td>
+			    <table border=0 cellspacing=0 cellpadding=4>
+			      <tr>
+			       <td align=center>
+			         Liste de distribution<BR>
+			         <input type="text" name="email" size="15" value="Votre email"><BR>
+			         <INPUT type="submit" value="S'inscrire" name="action"><BR>
+					 <br>
+					 <a href="http://www.webdonline.com/fr/services/mailing/annulation.asp?mailingID=258665">Se désinscrire</a>
+			       </td>
+			     </tr>
+			    </table>
+			   </td>
+			  </tr>
+			</table>
+			</form>
+			<!-- Fin du code à insérer -->
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<a href='http://www.hevydevy.com' target='_blank'><IMG SRC='img/logo_hdr.jpg' HEIGHT=47 WIDTH=140 ALT='www.HevyDevy.com' BORDER=0></A>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<DIV ALIGN='center'>
+				<a href='http://wwp.icq.com/scripts/contact.dll?msgto=70067306'> 
+    			<img src='http://wwp.icq.com/scripts/online.dll?icq=70067306&img=5' border=0 alt='ICQ' width=18 height=18 align='middle'>
+				70067306</a>
+				</DIV>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<DIV ALIGN='center'><A HREF='mailto:thoomis@caramail.com'>[E-MaiL]</A></DIV>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+			&nbsp;
+			</td>
+		</tr>		
+		
+		<tr>
+			<td>
+				<!-- Begin Nedstat Basic code -->
+<!-- Title: Physiweb -->
+<!-- URL: http://www.hevydevy.fr.st -->
+<script language='JavaScript' src='http://m1.nedstatbasic.net/basic.js'>
+</script>
+<script language='JavaScript'>
+<!--
+  nedstatbasic('ABXU3gqCadUN2gKoa8QyDSHLp/aw', 0);
+// -->
+</script>
+<noscript>
+<a target='_blank' href='http://v1.nedstatbasic.net/stats?ABXU3gqCadUN2gKoa8QyDSHLp/aw'><img
+src='http://m1.nedstatbasic.net/n?id=ABXU3gqCadUN2gKoa8QyDSHLp/aw'
+border='0' nosave width='18' height='18'></a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+			</td>
+		</tr>
+		</table>		
+	</TD>
+</TR>
+</TABLE>
+</DIV>	</TD>
+</TR>
+<TR>
+	<TD colspan=3><BR>
+<TABLE WIDTH=59% BORDERCOLOR="white" BORDER=1 BGCOLOR="black" ALIGN="center" CELLPADDING=0 CELLSPACING=0>
+<tr>
+	<td>
+		<TABLE WIDTH='100%' BORDER=0 ALIGN="center" CELLPADDING=0 CELLSPACING=0>
+		<tr>
+			<td>
+				<DIV ALIGN="center">
+				<a href="#top">&nbsp;&nbsp;<img src="img/haut.gif" border=0 alt="TOP"></A>
+				</DIV>
+			</td>
+			<td>
+				<DIV ALIGN="center">
+				<BR>		
+				Optimisé pour Internet Explorer 5.5, en 1024*768<BR>Droits d'auteurs Physiweb 2001-2002 <A HREF='mailto:thoomis@caramail.com?subject=Copyrights Physiweb'>thoomis@caramail.com</A>				<BR>
+				&nbsp;
+				</DIV>
+			</td>
+			<td>
+				<DIV ALIGN="center">
+				<a href="#top"><img src="img/haut.gif" border=0 alt="TOP"></A>&nbsp;&nbsp;
+				</DIV>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>	
+	
+
+	</TD>
+</TR>
+</TABLE>
+</P>
+

@@ -1,0 +1,435 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=1">Bienvenue</a>
+	<br><a href="news.php?l=1">Les News</a>
+	<br><a href="tour.php?l=1">Tournée</a>
+	<br><a href="liens.php?l=1">Les Liens</a>
+	<br><a href="bio.php?l=1">Biographie</a>
+	<br><a href="musiciens.php?l=1">Musiciens</a>
+	<br><a href="disco.php?l=1">Discographie</a>
+	<br><a href="pirates.php?l=1">Bootlegs</a>
+	<br><a href="paroles.php?l=1">Paroles</a>
+	<br><a href="reports.php?l=1">Concerts</a>
+	<br><a href="photos.php?l=1">Galerie Photo</a>
+	<br><a href="dls.php?l=1">Downloads</a>
+	<br><a href="presse.php?l=1">La Presse</a>
+	<br><a href="fans.php?l=1">Les Fans</a>
+	<br><a href="sondage.php?l=1">Sondage</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=13" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=1">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="musiciens.php?l=0"><img src="img/anglais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=1">Le Webmaster</a> - <a href="contact.php?l=1">Contact</a> - <a href="credits.php?l=1">Remerciements</a></div>
+
+						
+					<div id=texte>
+					<table width=100% height=100% cellspacing=0 cellpadding=0>
+					<tr>
+						<td valign=top bgcolor="#663333">
+							<div align=right id=titre>
+							&gt;&gt;Devin Garret TOWNSEND&nbsp;&nbsp;
+							</div>
+						</td>
+					</tr>
+
+					<tr>
+						<td bgcolor="#663333">
+							<br>
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							<table bgcolor="#663333" border=0 cellspacing=0 cellpadding=0 width="100%">
+							<tr>
+								<td>
+									<div align ="center">
+									 <B>Nom</B> : 
+									 <br>
+									 
+								</td>
+								<td rowspan=5>
+									<div align ="center">
+									<img src="img\profils\profil_devin.jpg" height=150 width=150>
+									</div>
+								</td>
+							</tr>
+							
+							<tr>
+								<td>
+									<div align ="center">
+									<br>
+									<B>Date de naissance</B> : 
+									<br>
+									05/05/1972 
+									</div>
+								</td>
+							</tr>
+							
+							<tr>
+								<td>
+									<div align ="center">
+									<br>
+									<B>Lieu de naissance</B> :
+									<br>
+									New Westminster 
+									<br>
+									(British Columbia, Canada)
+									</div>
+								</td>
+							</tr>						
+							
+							<tr>
+								<td>
+									<div align ="center">
+									<br>
+									<B>Lieu de résidence:</B> :
+									<br>
+									Pitt Meadows 
+									<br>
+									(British Columbia, Canada)
+									</div> 
+								</td>
+							</tr>						
+							
+							<tr>
+								<td>
+									<div align ="center">
+									<br>
+									<B>Marié</B>
+									</div>
+								</td>
+							</tr>
+							
+							<tr>
+								<td colspan=2>
+									<div align="center">
+									&nbsp;
+									</div>
+								</td>
+							</tr>							
+							
+							<tr>
+								<td colspan=2>
+									<table width="100%" cellspacing=0 cellpadding=0 border=0>
+									<tr>
+										<td width="33%">
+											<div align="center">
+											<B>Cheveux : </B>
+											</div> 
+										</td>
+										<td width="67%">
+											<div align="center">
+											Longs, blonds, le crâne dégarni
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width="33%">
+											<div align="center">
+											<br>
+											<B>Couleur des Yeux :</B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<div align="center">
+											<br>
+											marrons
+											</div>
+										</td>									
+									</tr>
+																	
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Animaux familiers :</B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Yuki, Happy, Michi, Fizzy, Abu et Zee les mouches (et leurs 150 enfants;-)
+											</div>
+										</td>									
+									</tr>
+	
+									<tr>
+										<td width=33% valign="top">
+											<br>
+											<div align="center">
+											<B>plats préférés : </B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<br>
+											<div align="center">
+											Pringles, curry, légumes frits, Red Bull, Gatorade 
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Groupes préférés: </B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<div align="center">
+											<br>
+											beaucoup trop ...
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<B><br>Albums préférés: </B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Ils changent tous les deux ans. 
+											<br>
+											Gretchen Goes to Nebraska - <B>KINGS X</B>, 
+											<br>
+											Nothing's Shocking -<B>JANE's ADDICTION</B>, 
+											<br>
+											Keep Your Hands off my Power Supply - <B>SLADE</B>, 
+											<br>
+											Formula - <B>OLD</B>, 
+											<br>
+											etc. 
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Autres choes que tu aime bien:
+											<br>en anglais</B> "<i>Other Stuff That Rocks"</I>
+											</B>
+											</div> 
+										</td>
+										<td width=67% valign="top">
+											<div align="center">
+											<br>la montagne, les rochers, le granite, le sable....  
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Qualités: </B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Une accumulations de détails qui  font que je suis très chiant 
+											</div>
+										</td>									
+									</tr>
+										
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Principal  défaut: </B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											je reste très terre à terre 
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Groupes actuels: </B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											<B>STRAPPING YOUNG LAD</B>,
+											<br>
+											<B>OCEAN MACHINE</B>,
+											<br>
+											<B>INFINITY</B>,
+											<br>
+											<B>PHYSICIST</B>,
+											<br>
+											<B>TERRIA</B>
+											</div>
+										</td>									
+									</tr>
+							
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Anciens groupe:</B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											<B>GREY SKIES</B>, 
+											<br>
+											<B>CAUSTIC THOUGHT</B>, 
+											<br>
+											<B>NOISESCAPE</B>, 
+											<br>
+											<B>Steve VAI</B>, 
+											<br>
+											<B>The WILDHEARTS</B>
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Instruments joués:</B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Guitare, claviers, chant, programmation... 
+											</div>
+										</td>									
+									</tr>
+							
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>La dernière fois que tu as dormi sur  ton canapé (et pourquoi):</B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Mon chien n'arrêtait pas de tousser toute la nuit. J'ai du descendre en bas pour pouvoir dormir
+											</div>
+										</td>									
+									</tr>
+							
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>"S'il y avait une famine, je mangerai _____" (et pourquoi):</B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Mon caca et mon pipi, filtrés par une chausette
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td width=33% valign="top">
+											<div align="center">
+											<br>
+											<B>Si tu te regardais comme tu regardes un étranger, que verrais -tu? :</B>
+											</div> 
+											</td>
+											<td width=67% valign="top">
+											<div align="center">
+											<br>
+											Un gars qui essaye dêtre trè important, en quête de réussite.
+											</div>
+										</td>									
+									</tr>
+									
+									<tr>
+										<td colspan=2 bgcolr="#335588">
+										<br>&nbsp;
+										</td>
+									</td>
+									
+									<tr>
+										<td colspan=2>
+											<div align="center">
+											Amusez vous et jouez du metal
+											<br>
+											Ne vous prenez pas autant au sérieux que moi, ... et ne pensez pas comme moi, ou vous aurez mal  au crâne
+											<br>
+											En fait, c'est juste un autre avis. Merci, bonne nuit.
+											
+										</td>
+									</tr>
+									</table>																																																																																																																
+							</td>				
+						</tr>
+						</table>
+						
+						</td>				
+						</tr>
+						</table>
+								
+		</div>	
+	</td>
+</tr>
+</table>
+					
+</table>
+</body>
+</html>
