@@ -1,0 +1,52 @@
+<!--
+Script trouv� sur http://www.phpscripts-fr.net
+Modifi� par Garth							garth6@caramail.com
+Re modifi� par Flying Nemo					bionicvisa@hotmail.com
+Re Re modifi� et Finalis� par Thoomis		webmaster@hevydevy.fr.st
+ -->
+<SCRIPT LANGUAGE="JavaScript">
+function PopupQuiMarche(page,largeur,hauteur,options) {
+  var top=(screen.height-hauteur)/2;
+  var left=(screen.width-largeur)/2;
+  window.open(page,"","top="+top+",left="+left+",width="+largeur+",height="+hauteur+","+options);
+}
+</SCRIPT>
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>___physiweb.com__devintownsend__fansite_____</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel=stylesheet href="pwb4.css">
+</head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+	<td align="center" valign="middle">
+    	<table width="1000" border=0 cellspacing="0" cellpadding="0">
+        <tr> 
+        	<td id=texte valign=top><div id=titre>
+	<img src="images/titles/1/galerie.jpg">
+</div>
+<div id=main>
+<center>
+<br>
+<br>
+<center>
+<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/01.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/01.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/02.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/02.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/04.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/04.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/03.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/03.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<br><br><A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/05.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/05.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/06.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/06.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/07.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/07.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/08.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/08.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<br><br><A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/09.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/09.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/10.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/10.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/11.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/11.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/12.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/12.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<br><br><A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/13.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/13.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/14.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/14.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;<A href='javascript:PopupQuiMarche("pic.php?filename=images/galerie/00soilwork/pics/15.jpg",800,600,"menubar=no,scrollbars=YES,statusbar=no")'><img src='images/galerie/00soilwork/15.jpg'border=0 width=100 height=75></A>&nbsp;&nbsp;</center>
+</div>
+
+				
+				 </div>
+				<br>
+		  		<div id=rubriques>
+<a href="news.php?l=1">news</a>_<a href="tour-fr.html">tour</a>_<a href="forum/" target="_blank">forum</a>_<a href="concerts.php?l=1">concerts</a>_<a href="galerie.php?l=1">galerie</a>_<a href="guestbook.php?l=1">guestbook</a>_<a href="contact-fr.html">contact</a><br><a href="liens.php?l=1">liens</a>_<a href="bio-fr.html">biographie</a>_<a href="paroles.php?l=1">paroles</a>_<a href="dls.php?l=1">downloads</a>_<a href="boots.php?l=1">bootlegs</a><br><a href="presse.php?l=1">presse</a>_<a href="fans.php?l=1">fans</a>_<a href="sondages.php?l=1">sondages</a>_<a href="credits-fr.html">credits</a>_<a href="aboutme" target="_blank">aboutme</a><br>				
+		  		</div>				
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+</html>

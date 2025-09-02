@@ -1,0 +1,161 @@
+@charset "iso-8859-1";
+body{ 
+	background-color:#C7CEC6;
+	scrollbar-3dlight-color:#000000;
+	scrollbar-arrow-color:#ffffff;
+	scrollbar-darkshadow-color:#000000;
+	scrollbar-face-color:#336699;
+	scrollbar-highlight-color:#336699;
+	scrollbar-shadow-color:#ffffff;
+	scrollbar-track-color:#000000;
+}
+
+a:link{
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+
+a:active{
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#ffffff;
+	background-color:#336666;
+	border-color:#003355;
+
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+	font-style:verdana;
+}
+
+td{
+	color:#ffffff;
+	font:9pt verdana;
+	font-style:bold;
+}
+
+div{
+	color:#ffffff;
+	font:9pt verdana;
+}
+
+textarea{
+	background-color:#336699;
+	color:#ffffff;
+	font:9pt verdana;
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:0pt;
+}
+
+input{
+	background-color:#336699;
+	font:9pt verdana;
+	color:#FFFFFF;
+	border-color:#fffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+option{
+	background-color:#003366;
+	font:9pt verdana;
+	color:#FFFFFF;
+	border-color:#fffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+#menu{
+	font:9pt verdana;
+	background-color:#263155;
+	border-color:#000000;
+	border-style:solid;
+	border-top-width:2pt;
+	border-bottom-width:2pt;
+	border-left-width:2pt;
+	border-right-width:2pt;
+	color:#ffffff;
+}
+
+#texte{
+	font:9pt verdana;
+	background-color:#263155;
+	border-color:#000000;
+	border-style:solid;
+	border-top-width:2pt;
+	border-bottom-width:2pt;
+	border-left-width:2pt;
+	border-right-width:2pt;
+	color:#ffffff;
+}
+
+#rubrique{
+	font:9pt verdana;
+	background-color:#000000;
+	font-weight:bold;
+	color:#ffffff;
+}
+
+#source{
+color:#fffffff;
+font:8pt verdana;
+font-weight:bold;
+}
+
+#header{
+color:#fffffff;
+font:11pt verdana;
+font-weight:bold;
+}
+
+#date_news{
+color:#fffffff;
+font:12pt verdana;
+
+}
+
+#titre_news{
+color:#fffffff;
+font:10pt verdana;font-weight:bold;
+}
+
+#titre{
+font-weight:bold;
+color:#000000;
+}
+
+#cadre{
+background:ffffff;
+color:#000000;
+font:9pt verdana;
+}
+
+#titre_liens {
+background-image:url(img/barre.jpg);
+color:#ffffff;
+font:9pt verdana;
+font-weight:bold;
+}
