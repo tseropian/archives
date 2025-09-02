@@ -1,0 +1,151 @@
+@charset "iso-8859-1";
+
+body {
+
+	background-color:#2A3A49;
+	background-repeat:no-repeat;
+	background-attachement:fixed;
+
+	scrollbar-face-color: #2A3A49; 
+	scrollbar-highlight-color: #2A3A49;
+	scrollbar-shadow-color: #2A3A49; 
+	scrollbar-3dlight-color: #DB171B;
+	scrollbar-arrow-color:  #DB171B; 
+	scrollbar-darkshadow-color: #DB171B;
+	
+	scrollbar-track-color: #F2F5FA;
+
+}
+
+
+
+a:link {
+	color:#2A3A49;
+	text-decoration:none;
+}
+a:active {
+	color:#2A3A49;
+	text-decoration:none;
+}
+a:visited {
+	color:#2A3A49;
+	text-decoration:none;
+}
+a:hover{
+	color:#993333;
+}
+
+div,td {
+	color:#000000;
+	font-size: 9pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+textarea{
+	color:#ffffff;
+	background-color:#993333;
+	font:9pt verdana;
+	border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+input{
+	color:#ffffff;
+	background-color:#993333;
+	font:9pt verdana;
+	border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+#titre{
+	position:relative;
+	z-index:2;
+	top:259px;
+	left:30px;
+	font:9pt Arial, Verdana, sans-serif, monospace;
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;;
+	text-align: left;
+}
+
+#texte {
+	background-image: url(images/fond_v4.jpg);
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;
+	width:1000px;
+	height:700px;
+	color:#FFFFFF;
+	overflow: auto;
+/*	border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;*/
+	z-index:1;
+}
+
+#main{
+	visibility:visible;
+	z-index:2;
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;
+	width:700px;
+	height:299px;
+	overflow:auto;
+	position:relative;
+	
+	/*border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;*/
+	
+}
+
+#rubriques{
+	position:relative;
+	z-index:2;
+	top:-52;
+	left:600;
+	font:11pt Arial, Verdana, sans-serif, monospace;
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;
+	width:370px;
+	height:50px;
+	text-align: right;
+}
+
+#date_news{
+color:#fffffff;
+font:12pt verdana;
+
+}
+
+#titre_news{
+color:#fffffff;
+font:10pt verdana;font-weight:bold;
+}
+
+#source{
+color:#fffffff;
+font:8pt verdana;
+font-weight:bold;
+}
