@@ -1,0 +1,356 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=0">Welcome</a>
+	<br><a href="news.php?l=0">News</a>
+	<br><a href="tour.php?l=0">Tour</a>
+	<br><a href="liens.php?l=0">Links</a>
+	<br><a href="bio-en.html">Biography</a>
+	<br><a href="musiciens.php?l=0">Members</a>
+	<br><a href="disco.php?l=0">Discography</a>
+	<br><a href="pirates.php?l=0">Bootlegs</a>
+	<br><a href="paroles.php?l=0">Lyrics</a>
+	<br><a href="reports.php?l=0">Live Reports</a>
+	<br><a href="photos.php?l=0">Pic Gallery</a>
+	<br><a href="dls.php?l=0">Downloads</a>
+	<br><a href="presse.php?l=0">The Press</a>
+	<br><a href="fans.php?l=0">Fan Profiles</a>
+	<br><a href="sondage.php?l=0">Poll</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=12" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="links.php?l=1"><img src="img/francais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=0">The Webmaster</a> - <a href="contact.php?l=0">Contact</a> - <a href="credits-en.html">Credits</a></div>
+
+						 								 		<div id=texte>
+								<table width=100% height=100% cellspacing=0 cellpadding=0>
+								<tr>
+									<td valign=top bgcolor="#663333">
+										<table width=100% cellspacing=0 cellpadding=0>
+										<tr>
+										<td>
+										<div align=right id=titre>
+										&gt;&gt;Links&nbsp;&nbsp;
+										</div>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+										<br>
+									</td>
+								</tr>
+												
+								<tr>
+									<td bgcolor="#663333">
+										<table width=100% cellspacing=0 cellpadding=0>
+										<tr>
+											<td>
+												<div align=center>
+												<a href="links.php?l=0&cat=devin">Devin Townsend</a> | <a href="links.php?l=0&cat=autres">Other bands</a> | <a href="links.php?l=0&cat=webzines">Webzines</a> | <a href="links.php?l=0&cat=divers">Misc</a>
+												</div>
+											</td>				
+										</tr>
+										</table>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+										<br><br><br>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333" valign=top>
+ 										<div align=center><div align=center><table width=100% cellspacing=0 cellpadding=0><tr><td><div align=center><table width=85% border=1 bordercolor="#ffffff" cellspacing=0 cellpadding=0>
+															<tr>
+															<td>
+															<table width=100% cellspacing=0 cellpadding=0>
+															<tr>
+															<td colspan=2 background="img/barre_liens.jpg">
+																	<b>&nbsp;&nbsp;Armoury Studios</b>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<br>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<div align=center>
+																		<table width=95% cellspacing=0 cellpadding=0>
+																		<tr>
+																			<td colspan=2>
+																				<div align=justify>
+																				The studio where SYL album has been recorded
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		<tr>
+																			<td colspan=2 bgcolor="#565252">
+																				<br>
+																			</td>
+																		</tr>
+																		
+																		<tr><td width=10% bgcolor="#565252"><img src='img/anglais.jpg'></td><td bgcolor="#565252">
+																				<div align=right>
+																				<a href="http://www.armourystudios.com/" target="_blank"><b>http://www.armourystudios.com/&nbsp;&nbsp;</b></a>
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															</table>
+															</td>
+															</tr>
+															</table>
+														</div></td></tr><tr><td><br></td></tr><tr><td><div align=center><table width=85% border=1 bordercolor="#ffffff" cellspacing=0 cellpadding=0>
+															<tr>
+															<td>
+															<table width=100% cellspacing=0 cellpadding=0>
+															<tr>
+															<td colspan=2 background="img/barre_liens.jpg">
+																	<b>&nbsp;&nbsp;Century Media</b>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<br>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<div align=center>
+																		<table width=95% cellspacing=0 cellpadding=0>
+																		<tr>
+																			<td colspan=2>
+																				<div align=justify>
+																				The <b>STRAPPING YOUNG LAD</b> label
+
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		<tr>
+																			<td colspan=2 bgcolor="#565252">
+																				<br>
+																			</td>
+																		</tr>
+																		
+																		<tr><td width=10% bgcolor="#565252"><img src='img/anglais.jpg'></td><td bgcolor="#565252">
+																				<div align=right>
+																				<a href="http://www.centurymedia.com" target="_blank"><b>http://www.centurymedia.com&nbsp;&nbsp;</b></a>
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															</table>
+															</td>
+															</tr>
+															</table>
+														</div></td></tr><tr><td><br></td></tr><tr><td><div align=center><table width=85% border=1 bordercolor="#ffffff" cellspacing=0 cellpadding=0>
+															<tr>
+															<td>
+															<table width=100% cellspacing=0 cellpadding=0>
+															<tr>
+															<td colspan=2 background="img/barre_liens.jpg">
+																	<b>&nbsp;&nbsp;Iron Chief</b>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<br>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<div align=center>
+																		<table width=95% cellspacing=0 cellpadding=0>
+																		<tr>
+																			<td colspan=2>
+																				<div align=justify>
+																				The famous TV show where master chiefs challenge  each other :)
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		<tr>
+																			<td colspan=2 bgcolor="#565252">
+																				<br>
+																			</td>
+																		</tr>
+																		
+																		<tr><td width=10% bgcolor="#565252"><img src='img/anglais.jpg'></td><td bgcolor="#565252">
+																				<div align=right>
+																				<a href="http://www.ironchef.com/" target="_blank"><b>http://www.ironchef.com/&nbsp;&nbsp;</b></a>
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															</table>
+															</td>
+															</tr>
+															</table>
+														</div></td></tr><tr><td><br></td></tr><tr><td><div align=center><table width=85% border=1 bordercolor="#ffffff" cellspacing=0 cellpadding=0>
+															<tr>
+															<td>
+															<table width=100% cellspacing=0 cellpadding=0>
+															<tr>
+															<td colspan=2 background="img/barre_liens.jpg">
+																	<b>&nbsp;&nbsp;RVPDrums</b>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<br>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<div align=center>
+																		<table width=95% cellspacing=0 cellpadding=0>
+																		<tr>
+																			<td colspan=2>
+																				<div align=justify>
+																				Ryan Van Poederooyen personnal website. Everything you want to know about him is here
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		<tr>
+																			<td colspan=2 bgcolor="#565252">
+																				<br>
+																			</td>
+																		</tr>
+																		
+																		<tr><td width=10% bgcolor="#565252"><img src='img/anglais.jpg'></td><td bgcolor="#565252">
+																				<div align=right>
+																				<a href="http://www.rvpdrums.com" target="_blank"><b>http://www.rvpdrums.com&nbsp;&nbsp;</b></a>
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															</table>
+															</td>
+															</tr>
+															</table>
+														</div></td></tr><tr><td><br></td></tr><tr><td><div align=center><table width=85% border=1 bordercolor="#ffffff" cellspacing=0 cellpadding=0>
+															<tr>
+															<td>
+															<table width=100% cellspacing=0 cellpadding=0>
+															<tr>
+															<td colspan=2 background="img/barre_liens.jpg">
+																	<b>&nbsp;&nbsp;Seem Pieces</b>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<br>
+																</td>
+															</tr>
+															
+															<tr>
+																<td colspan=2 bgcolor="#565252">
+																	<div align=center>
+																		<table width=95% cellspacing=0 cellpadding=0>
+																		<tr>
+																			<td colspan=2>
+																				<div align=justify>
+																				<b>Travis SMITH</b> website. He's the one who made <b><i>TERRIA</b></i> artwork.
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		<tr>
+																			<td colspan=2 bgcolor="#565252">
+																				<br>
+																			</td>
+																		</tr>
+																		
+																		<tr><td width=10% bgcolor="#565252"><img src='img/anglais.jpg'></td><td bgcolor="#565252">
+																				<div align=right>
+																				<a href="http://www.seempieces.com" target="_blank"><b>http://www.seempieces.com&nbsp;&nbsp;</b></a>
+																				</div>
+																			</td>
+																		</tr>
+																		
+																		</table>
+																	</div>
+																</td>
+															</tr>
+															</table>
+															</td>
+															</tr>
+															</table>
+														</div></td></tr><tr><td><br></td></tr></table></div><BR><BR></div>
+									</td>
+								</tr>
+								</table>	
+												
+</table>
+</body>
+</html>

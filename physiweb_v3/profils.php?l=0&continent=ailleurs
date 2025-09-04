@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=0">Welcome</a>
+	<br><a href="news.php?l=0">News</a>
+	<br><a href="tour.php?l=0">Tour</a>
+	<br><a href="liens.php?l=0">Links</a>
+	<br><a href="bio-en.html">Biography</a>
+	<br><a href="musiciens.php?l=0">Members</a>
+	<br><a href="disco.php?l=0">Discography</a>
+	<br><a href="pirates.php?l=0">Bootlegs</a>
+	<br><a href="paroles.php?l=0">Lyrics</a>
+	<br><a href="reports.php?l=0">Live Reports</a>
+	<br><a href="photos.php?l=0">Pic Gallery</a>
+	<br><a href="dls.php?l=0">Downloads</a>
+	<br><a href="presse.php?l=0">The Press</a>
+	<br><a href="fans.php?l=0">Fan Profiles</a>
+	<br><a href="sondage.php?l=0">Poll</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=12" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="profils.php?l=1"><img src="img/francais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=0">The Webmaster</a> - <a href="contact.php?l=0">Contact</a> - <a href="credits-en.html">Credits</a></div>
+
+						 		<div id=texte>
+								<table width=100% height=100% cellspacing=0 cellpadding=0>
+								<tr>
+								<td valign=top bgcolor="#663333">
+								<table width=100% cellspacing=0 cellpadding=0>
+								<tr>
+									<td bgcolor="#000000">
+										<div align=right id=titre>
+										&gt;&gt;Fans profiles&nbsp;&nbsp;
+										</div>
+									</td>
+								</tr>
+
+								<tr>
+									<td bgcolor="#663333">
+										<br>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+										<table width=100% height=100% cellspacing=0 cellpadding=0>
+										<tr>
+											<td width=25%>
+											<div align='center'>
+											<b><a href='profils.php?l=0&continent=france'>France</a></b>
+											</div>
+											</td>
+											<td width=25%>
+											<div align='center'>
+											<b><a href='profils.php?l=0&continent=eur'>Europe</a></b>
+											</div>
+											</td>
+											<td width=25%>
+											<div align='center'>
+											<b><a href='profils.php?l=0&continent=amerique'>America</a></b>
+											</div>
+											</td>
+											<td width=25%>
+											<div align='center'>
+											<b><a href='profils.php?l=0&continent=ailleurs'>Elsewhere</a></b>
+											</div>
+											</td>
+										</tr>
+										</table>
+									</td>
+								</tr>								
+								
+								<tr>
+									<td bgcolor="#663333">
+										<br>
+									</td>
+								</tr>								
+								
+								<tr>
+									<td bgcolor="#663333">
+ 										<div align=center> <tr>
+									<td>
+						 				<div align='center'>
+										<table width=90% cellspacing=0 cellpading=0>
+										
+										
+										<tr>
+											<td>
+												<table width=100% height=100% cellspacing='0' cellpadding=0>
+												<tr>
+													<td colspan=2 background="img/barre_liens.jpg">
+														<div align='right'>
+														<b>Cryonica&nbsp;&nbsp;</b>
+														</div>
+													</td>
+												</tr>
+												
+												<tr>
+													<td width=25% valign='top' bgcolor='#565252'>
+													<div align='center'>
+													<img src="img/fans/rien.jpg">
+													<br>
+													</td>
+													<td bgcolor='#565252'>
+													<div align='center'><b>Name</b> : Peita<br><b>Date of birth</b> : 30/08<br><b>Living place</b> : Australia<br>&nbsp;<br><b>E-Mail</b> : <a href='mailto:infra-galaxia@cybergoth.i-p.com'>infra-galaxia@cybergoth.i-p.com</a>&nbsp;<br>&nbsp;<br><a href='http://transfixion.cjb.net/' target='_blank'><b>http://transfixion.cjb.net/</b></a><br><br>
+													<b>Other bands you like</b> : 
+													<br>
+													The Kovenant, Dimmu Borgir, Samael	
+													</div>
+													</td>
+												</tr>															
+												</table>
+											</td>
+										</tr>
+										</table>
+										<br>
+										<br> <tr>
+									<td>
+						 				<div align='center'>
+										<table width=90% cellspacing=0 cellpading=0>
+										
+										
+										<tr>
+											<td>
+												<table width=100% height=100% cellspacing='0' cellpadding=0>
+												<tr>
+													<td colspan=2 background="img/barre_liens.jpg">
+														<div align='right'>
+														<b>Dilliboy&nbsp;&nbsp;</b>
+														</div>
+													</td>
+												</tr>
+												
+												<tr>
+													<td width=25% valign='top' bgcolor='#565252'>
+													<div align='center'>
+													<img src="img/fans/rien.jpg">
+													<br>
+													</td>
+													<td bgcolor='#565252'>
+													<div align='center'><b>Name</b> : Dylan Lees<br><b>Date of birth</b> : 29/01/1985<br><b>Living place</b> : Melbourne, AUSTRALIA<br>&nbsp;<br><b>E-Mail</b> : <a href='mailto:detox@unite.com.au'>detox@unite.com.au</a>&nbsp;<br><b>ICQ#</b> : 6852231<br><a href='http://unite.com.au/~u6378a/' target='_blank'><b>http://unite.com.au/~u6378a/</b></a><br><br>
+													<b>Other bands you like</b> : 
+													<br>
+													Amorphis, A Perfect Circle, The Chemical Brothers,<br>Collective Soul,
+The Crystal Method, Death In Vegas, Elephant Gun, <br>Filter, Foo Fighters, Garbage,
+Goldfrapp, <br>Gomez, Machine Gun Fellatio, Massive Attack, <br>Rammstein, 16
+Horsepower, The Smashing Pumpkins, Stabbing Westward, <br>Stone Temple Pilots, Type
+O Negative, Vast, White Zombie
+
+													</div>
+													</td>
+												</tr>															
+												</table>
+											</td>
+										</tr>
+										</table>
+										<br>
+										<br> <tr>
+									<td>
+						 				<div align='center'>
+										<table width=90% cellspacing=0 cellpading=0>
+										
+										
+										<tr>
+											<td>
+												<table width=100% height=100% cellspacing='0' cellpadding=0>
+												<tr>
+													<td colspan=2 background="img/barre_liens.jpg">
+														<div align='right'>
+														<b>Joe&nbsp;&nbsp;</b>
+														</div>
+													</td>
+												</tr>
+												
+												<tr>
+													<td width=25% valign='top' bgcolor='#565252'>
+													<div align='center'>
+													<img src="img/fans/rien.jpg">
+													<br>
+													</td>
+													<td bgcolor='#565252'>
+													<div align='center'><b>Name</b> : Joe Duggan<br><b>Date of birth</b> : 09/04/1969<br><b>Living place</b> : Tokyo<br>&nbsp;<br>&nbsp;<br>&nbsp;<br><br>
+													<b>Other bands you like</b> : 
+													<br>
+													Fishbone, Voivod, Fugazi, Tool, SOIA and lots of other
+stuff
+													</div>
+													</td>
+												</tr>															
+												</table>
+											</td>
+										</tr>
+										</table>
+										<br>
+										<br> <tr>
+									<td>
+						 				<div align='center'>
+										<table width=90% cellspacing=0 cellpading=0>
+										
+										
+										<tr>
+											<td>
+												<table width=100% height=100% cellspacing='0' cellpadding=0>
+												<tr>
+													<td colspan=2 background="img/barre_liens.jpg">
+														<div align='right'>
+														<b>Superjudge&nbsp;&nbsp;</b>
+														</div>
+													</td>
+												</tr>
+												
+												<tr>
+													<td width=25% valign='top' bgcolor='#565252'>
+													<div align='center'>
+													<img src="img/fans/rien.jpg">
+													<br>
+													</td>
+													<td bgcolor='#565252'>
+													<div align='center'><b>Name</b> : Greg<br><b>Date of birth</b> : 27-5-1984<br><b>Living place</b> : Brisbane, Australia<br>&nbsp;<br><b>E-Mail</b> : <a href='mailto:superjudge@stonerrock.net'>superjudge@stonerrock.net</a>&nbsp;<br>&nbsp;<br><a href='http://www.instituteofreason.com' target='_blank'><b>http://www.instituteofreason.com</b></a><br><br>
+													<b>Other bands you like</b> : 
+													<br>
+													Monster Magnet, Mr Bungle, Nine Inch Nails, Dream Theatre, Amorphis, A
+Perfect Circle, Van Halen, anything by Steve Vai, Tool, Secret Chiefs 3,
+Incubus, Soilwork, Tori Amos, pretty much any other skillful intelligent
+musicians...
+													</div>
+													</td>
+												</tr>															
+												</table>
+											</td>
+										</tr>
+										</table>
+										<br>
+										<br></div>
+										</div>
+									</td>
+								</tr>
+								</table>
+								</td>
+								</tr>
+								</table>	
+												
+</table>
+</body>
+</html>
