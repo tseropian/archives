@@ -1,0 +1,168 @@
+@charset "iso-8859-1";
+
+body {
+	background-color:#670001;
+	background-image:url(img/fond.jpg);
+	background-repeat:no-repeat;
+	background-attachement:fixed:
+}
+
+a:link {
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+a:active {
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+a:visited {
+	color:#ffffff;
+	font:9pt verdana;
+	text-decoration:none;
+}
+a:hover{
+	color:#ffffff;
+	background:#993333;
+}
+#sommaire {
+	color:#FFFFFF;
+}
+div,td {
+	color:#FFFFFF;
+	font:9pt verdana;
+}
+
+textarea{
+	color:#ffffff;
+	background-color:#993333;
+	font:9pt verdana;
+	border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+input{
+	color:#ffffff;
+	background-color:#993333;
+	font:9pt verdana;
+	border-color:#ffffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+#menu{
+	position:absolute;
+	visibility:visible;
+	z-index:2;
+	top:170;
+	left:10;
+}
+
+#bas{
+	position:absolute;
+	visibility:visible;
+	z-index:3;
+	top:457;
+	left:305;
+}
+
+#tmptexte {
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;
+	position:absolute;
+	left:170px;
+	top:140px;
+	width:465px;
+	height:340px;
+	z-index:1;
+	overflow: auto;
+	color:#FFFFFF;
+	font-size:8pt;
+	font-family:verdana;
+	visibility:visible;
+}
+
+#texte {
+
+	padding-bottom:0pt;
+	padding-top:0pt;
+	padding-left:0pt;
+	padding-right:0pt;
+	position:absolute;
+	left:170px;
+	top:140px;
+	z-index:1;
+	overflow: auto;
+	color:#FFFFFF;
+	font-size:9pt;
+	font-family:verdana;
+	visibility:visible;
+}
+
+#tab {
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+#titre {
+	background-image:url(img/barre.html);
+	color:#ffffff;
+	font:9pt verdana;
+	font-weight:bold;
+}
+#small {
+	color:#FFFFFF;
+	font:6pt verdana;
+}
+#date{
+	background-color:#FFCC00;
+	color:#000000;
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+#quest{
+	font:8pt verdana;
+	font-style:italic;
+	background-color:#000000;
+	color:#FFCC00;
+	border-color:#000000;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+	padding-bottom:1pt;
+	padding-top:1pt;
+	padding-left:1pt;
+	padding-right:1pt;
+	text-align:justify;
+}
+#redacteur{
+	background-color:#000000;
+	color:#FFEEAA;
+	font:8pt verdana;
+}
