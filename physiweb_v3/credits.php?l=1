@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=1">Bienvenue</a>
+	<br><a href="news.php?l=1">Les News</a>
+	<br><a href="tour.php?l=1">Tourn�e</a>
+	<br><a href="liens.php?l=1">Les Liens</a>
+	<br><a href="bio-fr.html">Biographie</a>
+	<br><a href="musiciens.php?l=1">Musiciens</a>
+	<br><a href="disco.php?l=1">Discographie</a>
+	<br><a href="pirates.php?l=1">Bootlegs</a>
+	<br><a href="paroles.php?l=1">Paroles</a>
+	<br><a href="reports.php?l=1">Concerts</a>
+	<br><a href="photos.php?l=1">Galerie Photo</a>
+	<br><a href="dls.php?l=1">Downloads</a>
+	<br><a href="presse.php?l=1">La Presse</a>
+	<br><a href="fans.php?l=1">Les Fans</a>
+	<br><a href="sondage.php?l=1">Sondage</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=13" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=1">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="credits-en.html"><img src="img/anglais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=1">Le Webmaster</a> - <a href="contact.php?l=1">Contact</a> - <a href="credits-fr.html">Remerciements</a></div>
+
+						 		<div id=texte>
+								<table width=100% height=100% cellspacing=0 cellpadding=0>
+								<tr>
+								<td valign=top bgcolor="#663333">
+								<table width=100% cellspacing=0 cellpadding=0>
+								<tr>
+									<td bgcolor="#000000">
+										<div align=right id=titre>
+										&gt;&gt;Remerciements&nbsp;&nbsp;
+										</div>
+									</td>
+								</tr>
+
+								<tr>
+									<td bgcolor="#663333">
+										<br>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+ 										<div align=center>						 				
+								 		Je tiens tout particuli�rement � remercier certaines personnes
+										<BR> 
+										sans lesquelles la r�alisation de ce site aurait �t� 
+										<BR>
+										beaucoup plus dure...
+										<br>
+									
+										<B>MERCI A TOUS</B>
+										<br>
+										<br>
+						
+										<table width='98%' cellspacing=0 cellpadding=0>
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>Pince</B></DIV>
+											</td>
+											<td width='75%'>	
+												<DIV ALIGN='right'><B>son site</B> : <A HREF='http://www.pince.fr.st' TARGET='_blank'><I>Timelessness</I></A></DIV>
+											</td>
+										</tr>
+								
+										<tr>
+											<td width='25%'>
+												&nbsp;
+											</td>
+											<td width='75%'>
+											pour toute l'aide que tu m'as fournie sans compter (PHP et j'en passe) et surtout pour le mp3 de &quot;<I>Bad Devil</I>&quot;. C'est gr�ce � toi que tout a commenc� en fait ;^P
+											</td>
+										</tr>
+								
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>Burn</B></DIV>
+											</td>
+											<td width='75%'>
+												<DIV ALIGN='right'><B>son site</B> : <A HREF='http://www.gathering.fr.st' TARGET='_blank'><I>Sand &amp; Mercury</I></A></DIV>
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												&nbsp;
+											</td>
+											<td width='75%'>
+												pour pour les traductions en anglais, les photos du Caf� de la Danse, la motivation pour le site web, et les MDs &gt;)
+											</td>
+										</tr>
+										
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>O
+												Garnier (N.T.S.)</B></DIV>
+											</td>
+											<td width='75%'>
+												pour l'interview le soir du 30 novembre. Je ne saurai comment te remercier !!!!
+											</td>
+										</tr>
+		
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>La r�dac� de <i>Rock Hard</i></B>
+											</td>
+											<td width='75%'>
+												<DIV ALIGN='right'><B><a href='mailto:MetalPoste@aol.com'><i>MetalPoste@aol.com</i></A></DIV>
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												&nbsp;
+											</td>
+											<td width='75%'>
+												cf n�5, page 15, � c�t� de la news de Jason NEWSTED :-)
+											</td>
+										</tr>
+		
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>Sick Again</B></DIV>
+											</td>
+											<td width='75%'>
+												<DIV ALIGN='right'><B>son site</B> : <A HREF='http://www.theeye.fr.st' TARGET='_blank'><I>The Eye of the Telescope</I></A></DIV>
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												&nbsp;
+											</td>
+											<td width='75%'>
+												pour les interviews de HRM
+											</td>
+										</tr>
+										
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												<DIV ALIGN='center'><B>Antonin</B></DIV>
+											</td>
+											<td width='75%'>
+												<DIV ALIGN='right'><A HREF='mailto:strapping.lad@voila.fr'><I>strapping.lad@voila.fr</I></A></DIV>
+											</td>
+										</tr>
+										
+										<tr>
+											<td width='25%'>
+												&nbsp;
+											</td>
+											<td width='75%'>
+												pour les interviews, articles de presse et le live report du Trabendo
+											</td>
+										</tr>
+										
+										<tr>
+											<td colspan=2>
+												&nbsp;
+											</td>
+										</tr>														
+										</table>
+										</DIV>
+								</body>
+</html>

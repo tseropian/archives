@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>>>PhysiWeb<< - http://www.hevydevy.fr.st</title>
+<link rel="stylesheet" href="style.css"></head>
+<body leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0">
+
+
+
+
+<div id=rubriques>
+<table cellpadding=0 cellspacing=0 width=145>
+<tr>
+	<td>
+		<div align="center">
+		<table width=80% border=1 bordercolor="#ffffff" bgcolor="#000000" cellspacing=0 cellpadding=0>
+		<tr>
+			<td>
+				<div align="center">
+				<table width=80% cellspacing=0 cellpadding=0>
+					<tr>
+						<td>
+						<a href="accueil.php?l=0">Welcome</a>
+	<br><a href="news.php?l=0">News</a>
+	<br><a href="tour.php?l=0">Tour</a>
+	<br><a href="liens.php?l=0">Links</a>
+	<br><a href="bio-en.html">Biography</a>
+	<br><a href="musiciens.php?l=0">Members</a>
+	<br><a href="disco.php?l=0">Discography</a>
+	<br><a href="pirates.php?l=0">Bootlegs</a>
+	<br><a href="paroles.php?l=0">Lyrics</a>
+	<br><a href="reports.php?l=0">Live Reports</a>
+	<br><a href="photos.php?l=0">Pic Gallery</a>
+	<br><a href="dls.php?l=0">Downloads</a>
+	<br><a href="presse.php?l=0">The Press</a>
+	<br><a href="fans.php?l=0">Fan Profiles</a>
+	<br><a href="sondage.php?l=0">Poll</a>
+	<br><a href="http://www.sinergy-fr.com/forums/viewforum.php?f=12" target="_blank">Forum</a>
+	<br><a href="guestbook.php?l=">Guestbook</a>				
+						</td>
+					</tr>
+				</table>
+				</div>
+			</td>
+		</tr>		
+		</table> 
+	</td>
+</tr>
+		
+<tr>
+	<td>
+		<img src="img/miniban.jpg">
+	</td>
+</tr>
+</table>
+</div>
+
+<div id=bas>
+<a href="sondage.php?l=1"><img src="img/francais.jpg" border=0 width=30 height=15 alt="English Version"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="webmaster.php?l=0">The Webmaster</a> - <a href="contact.php?l=0">Contact</a> - <a href="credits-en.html">Credits</a></div>
+
+						 		<div id=texte>
+								<table width=100% height=100% cellspacing=0 cellpadding=0>
+								<tr>
+								<td valign=top bgcolor="#663333">
+								<table width=100% cellspacing=0 cellpadding=0>
+								<tr>
+									<td>
+										<div align=right id=titre>
+										&gt;&gt;Sondage&nbsp;&nbsp;
+										</div>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+										<br>
+									</td>
+								</tr>
+								
+								<tr>
+									<td bgcolor="#663333">
+ 										<div align=center>
+<!-- D�but du sondage � ins�rer -->
+								<script language='JavaScript' src='http://www.webdonline.com/fr/services/sondageWeb/SondageSubmit.asp?id=198452&son=12473'></script>
+								<form name='sondagewebd' method='POST' target='SondageWebd'>
+								<!-- \\ tableau qui donne la bordure -->
+								<table BORDER=0 CELLSPACING=0 CELLPADDING=0 >
+								<tr>
+									<td ALIGN=CENTER VALIGN=TOP><!-- \\ Tableau int�rieur du sondage -->
+										<table BORDER=0 CELLPADDING=4 >
+										<tr>
+											<td>
+											<br>
+											<b>Male or Female</b>
+											<br>
+											<select name='23285'><option value='123594'>M&nbsp;<option value='123595'>F&nbsp;</select>
+										<p><b>Your age
+										:</font></font></font></b>
+										<br><select name='23286'><option value='123596'>0-10&nbsp;<option value='123597'>10-15&nbsp;<option value='123598'>15-20&nbsp;<option value='123600'>25-30&nbsp;<option value='123601'>30-35&nbsp;<option value='123602'>35-40&nbsp;<option value='123603'>40-50&nbsp;<option value='123604'>50
+										&amp; +&nbsp;</font></font></font></select>
+										<p><b>How did
+										you discover Devin :&nbsp;</font></font></font></b>
+										<br><input type='checkBox' name='23287' value='123616'>On
+										the CD of a magazine</font></font></font>
+										<br><input type='checkBox' name='23287' value='123615'>From
+										a friend</font></font></font>
+										<br><input type='checkBox' name='23287' value='123617'>On
+										radio</font></font></font>
+										<br><input type='checkBox' name='23287' value='123618'>On
+										the net</font></font></font>
+										<br><input type='checkBox' name='23287' value='123619'>During
+										a gig</font></font></font>
+										<br><input type='checkBox' name='23287' value='123620'>By
+										accident</font></font></font>
+										<br><input type='checkBox' name='23287' value='123655'>Other
+										<br>&nbsp;
+										<p><b>Your fave
+										album :&nbsp;</b>
+										<br><select name='23288'><option value='123612'>Terria&nbsp;<option value='123605'>S.Y.L.
+										: Heavy As A Really Heavy Thing&nbsp;<option value='123606'>S.Y.L. : City&nbsp;<option value='123607'>S.Y.L.
+										: No Sleep 'Till Bed Time&nbsp;<option value='123608'>Punky Bruster : Cooked
+										On Phonics&nbsp;<option value='123609'>Ocean Machine : Biomech&nbsp;<option value='123610'>Infinity&nbsp;<option value='123611'>Physicist&nbsp;<option value='123621'>Autre&nbsp;</font></font></font></select>
+										<p><b>Have you
+										already seen Devin Townsend at gig ?</font></font></font></b>
+										<br><input type='radio' name='23289' value='123613'>'yes</font></font></font>
+										<br><input type='radio' name='23289' value='123614'>'no</font></font></font>
+										<br>&nbsp;
+										<p><b>How did
+										you discover Physiweb?</font></font></font></b>
+										<br><input type='checkBox' name='23290' value='123622'>A
+										link</font></font></font>
+										<br><input type='checkBox' name='23290' value='123623'>A
+										webring</font></font></font>
+										<br><input type='checkBox' name='23290' value='123624'>On
+										Caramail</font></font></font>
+										<br><input type='checkBox' name='23290' value='123625'>From
+										someone you know</font></font></font>
+										<br><input type='checkBox' name='23290' value='123626'>From
+										a search engine</font></font></font>
+										<br><input type='checkBox' name='23290' value='123627'>By
+										accident</font></font></font>
+										<br><input type='checkBox' name='23290' value='123656'>Other</font></font></font>
+										<br>'</font></font></font>&nbsp;
+										<br>&nbsp;
+										<br>
+										<center>
+										<p><input type='button' value='Vote!' onClick='showresults(198452,12473,1)'>
+										<br><a href='javascript:showresults(198452,12473,0)'>Results
+										and archives</a></font></font></font></center>
+										</td>
+										</tr>
+										</table>
+										<!-- //// Tableau int�rieur du sondage --></td>
+										</tr>
+										</table>
+										<!-- //// tableau qui donne la bordure --></form><!-- Fin du sondage � ins�rer -->		
+										</div>
+									</td>
+								</tr>
+								</table>
+								</td>
+								</tr>
+								</table>	
+												
+</table>
+</body>
+</html>
