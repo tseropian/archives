@@ -85,28 +85,30 @@ input{
 	padding-left:0pt;
 	padding-right:0pt;
 	width:1000px;
-	height:700px;
+	height:585px;
 	color:#FFFFFF;
-	overflow: auto;
+	
 /*	border-color:#ffffff;
 	border-style:solid;
 	border-top-width:1pt;
 	border-bottom-width:1pt;
 	border-left-width:1pt;
 	border-right-width:1pt;*/
-	z-index:1;
+	
 }
 
 #main{
 	visibility:visible;
-	z-index:2;
+	z-index:1;
+	top:-43;
+	left:150;
 	padding-bottom:0pt;
 	padding-top:0pt;
 	padding-left:0pt;
 	padding-right:0pt;
 	width:700px;
 	height:299px;
-	overflow:auto;
+	overflow: auto;
 	position:relative;
 	
 	/*border-color:#ffffff;

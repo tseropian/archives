@@ -40,14 +40,22 @@ class db_sql {
 	}
 }
 										
-if (!isset($entry)) $entry = 0;
+if (!isset($_GET['entry']) || !is_numeric($_GET['entry'])) {
+	$entry = 0;
+} else {
+	$entry = (int)$_GET['entry'];
+	if ($entry < 0) $entry = 0;
+}
 $db_connect = new db_sql;
 $sql_result = mysqli_query($link, "select count(*) as total from physiweb_guestbook");
 $db_connect->fetch_array($sql_result);
 $total = $db_connect->record['total'];
+if ($entry >= $total) $entry = max(0, $total - 10);
 $next_page = $entry+10;
 $prev_page = $entry-10;
 $navigation ='';
+$current_page = floor($entry / 10) + 1;
+$total_pages = ceil($total / 10);
 
 if ($prev_page >= 0){
 	$navigation = "<td><a href='guestbook.php?l=$l&entry=$prev_page'>$precedents</a></td>";
@@ -55,13 +63,15 @@ if ($prev_page >= 0){
 	$navigation = "<td>&nbsp;</td>";
 }
 
+$navigation .= "<td align=center><b>Page $current_page / $total_pages</b></td>";
+
 if ($next_page < $total) {
 	$navigation = $navigation. "<td align=right><a href='guestbook.php?l=$l&entry=$next_page'>$suivants</a></td>";
 }else{
-	$navigation = $navigation."<td>&nbsp;</td>";
+	$navigation = $navigation."<td align=right>&nbsp;</td>";
 }
 
-$requete = mysqli_query($link, "SELECT * FROM physiweb_guestbook where ligne=0 order by id desc limit $entry, 10");
+$requete = mysqli_query($link, "SELECT * FROM physiweb_guestbook where ligne=0 order by id desc limit " . (int)$entry . ", 10");
 ?>
 <center>
 <table width=90% cellpadding=0 cellspacing=0>

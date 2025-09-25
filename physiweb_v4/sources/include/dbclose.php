@@ -1,3 +1,3 @@
-<?
-	mysql_close ($link);
+<?php
+	mysqli_close ($link);
 ?>

@@ -10,20 +10,18 @@ compteur();
 
 include("include/dbopen.php");
 	$requete=mysqli_query($link, "SELECT * FROM physiweb_articles WHERE id='$id'");
-	$ligne=mysql_fetch_object($requete);
+	$ligne=mysqli_fetch_object($requete);
 	$titre=$ligne->titre;
 	$texte=$ligne->texte;
 	$auteur=$ligne->auteur;
 	include("include/dbclose.php");
-	
+
 	if($l==1){
 		$retour="Retour � la section presse";
 	}
 	else{
 		$retour="Back to press section";
 	}
-
-require("include/dbclose.php");
 require("include/head.php");
 ?>
 </head>
