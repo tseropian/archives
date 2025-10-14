@@ -1,0 +1,117 @@
+@charset "iso-8859-1";
+body{ 
+	background-color:#ffffff;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+a:link{
+	text-decoration:none;
+	color:#000000;
+}
+
+a:visited{
+	text-decoration:none;
+	color:#000000;
+}
+
+a:active{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+textarea{
+	background-color:#336699;
+	color:#ffffff;
+	font:9px;
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+input{
+	background-color:#336699;
+	font:9px;
+	color:#FFFFFF;
+	border-color:#fffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+option{
+	background-color:#003366;
+	font:9pt verdana;
+	color:#FFFFFF;
+	border-color:#fffff;
+	border-style:solid;
+	border-top-width:1pt;
+	border-bottom-width:1pt;
+	border-left-width:1pt;
+	border-right-width:1pt;
+}
+
+.rubriques{
+	text-align:center;
+        font-size:10pt;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color:#ffffff;
+        background-color:#36369a;
+        font-weight:bold;
+}
+
+A.rubriques{
+	font:10pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#ffffff;
+}
+
+.cat_links{
+	text-align:center;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color=#000000;
+}
+
+.main{
+	text-align=justify;
+	font-size: 9pt;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.titre_rubrique{
+	background-color: #36369a;
+	font-size: 10pt;
+	font-weight:bold; 
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.footer{
+        background-color:#36369a;
+	text-align: center;
+        font-size: 10pt;
+        font-weight:bold;
+	color: #ffffff;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.titre_news{
+	font-site=9px;
+	font-color="#000000";
+	font-weight=bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
